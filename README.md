@@ -32,7 +32,7 @@ root
 └── test
     ├── __init__.py
     ├── samples
-    │   └── samples.cv
+    │   └── samples.csv
     └── test_dijk.py
 
 8 directories, 14 files
