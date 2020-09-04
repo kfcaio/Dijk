@@ -16,7 +16,7 @@ Em seguida, navegue até o diretório bexs e execute a aplicação desejada entr
 A estrutura a seguir foi discutida previamente em [postagem](https://www.freecodecamp.org/news/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563/) do site Free Code Camp:
 
 ```
-bexs
+root
 ├── api
 │   ├── dijk_web.py
 │   └── __init__.py
@@ -28,16 +28,11 @@ bexs
 ├── main
 │   ├── dijk.py
 │   ├── __init__.py
-│   └── __pycache__
-│       ├── dijk.cpython-38.pyc
-│       └── __init__.cpython-38.pyc
-├── __pycache__
-│   └── dijk.cpython-38.pyc
 ├── README.md
 └── test
     ├── __init__.py
     ├── samples
-    │   └── samples.cv
+    │   └── samples.csv
     └── test_dijk.py
 
 8 directories, 14 files
