@@ -31,8 +31,6 @@ root
 │   └── __pycache__
 │       ├── dijk.cpython-38.pyc
 │       └── __init__.cpython-38.pyc
-├── __pycache__
-│   └── dijk.cpython-38.pyc
 ├── README.md
 └── test
     ├── __init__.py
